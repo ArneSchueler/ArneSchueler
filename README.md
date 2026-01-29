@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**ArneSchueler/ArneSchueler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Frontend / UX Engineer
+# Frontend / UX Engineer
 
 I design and build accessible, scalable web interfaces.
 
@@ -22,6 +14,22 @@ I care about:
 ---
 
 ## Selected Projects
+
+### 🔹 Project Name
+Short description of the problem and what the project solves.  
+Focus on **why it exists**, not just what it is.
+
+→ Repository  
+→ Live Demo (if available)
+
+---
+
+### 🔹 Project Name
+Another concise project summary. Highlight a different skill
+(e.g. architecture, UX decisions, performance, accessibility).
+
+→ Repository  
+→ Case description (optional)
 
 ---
 
